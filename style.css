@@ -3,7 +3,8 @@ body {
 }
 
 .Social_Icons {
-    aspect-ratio: 1;
-    height: 200px;
-    max-width: 10%;
+    aspect-ratio: 1 / 1;
+    width: 100px;
+    height: auto;
+    max-width: 5%;
 }
