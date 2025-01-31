@@ -14,3 +14,7 @@ body {
     row-gap: 10px;
     column-gap: 10px;
 }
+
+.Grid_Tile {
+    display: inline-block;
+}
