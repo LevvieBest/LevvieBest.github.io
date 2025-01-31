@@ -8,3 +8,7 @@ body {
     height: auto;
     max-width: 5%;
 }
+
+.Grid_Display {
+    display: grid;
+}
