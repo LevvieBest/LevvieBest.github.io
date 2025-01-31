@@ -5,17 +5,20 @@ body {
 .Social_Icons {
     aspect-ratio: 1 / 1;
     width: 100px;
+    display: block;
     height: auto;
-    max-width: 5%;
+    max-width: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .Grid_Display {
     display: inline-grid;
-    row-gap: 10px;
-    column-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 20px;
 }
 
 .Grid_Tile {
-    display: inline-block;
-    width: 100px;
+    display: block;
+    max-width: auto;
 }
