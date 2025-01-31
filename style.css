@@ -10,11 +10,12 @@ body {
 }
 
 .Grid_Display {
-    display: grid;
+    display: inline-grid;
     row-gap: 10px;
     column-gap: 10px;
 }
 
 .Grid_Tile {
     display: inline-block;
+    width: 100px;
 }
