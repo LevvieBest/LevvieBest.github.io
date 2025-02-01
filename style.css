@@ -1,5 +1,17 @@
 body {
     background-color: rgba(255, 184, 204, 1);
+    margin: 0;
+    padding: 0;
+}
+
+#Content {
+    display: block;
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    padding: 20px;
+
+    background-color:rgba(255, 240, 240, 1)
 }
 
 .Social_Icons {
